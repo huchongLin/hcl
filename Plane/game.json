@@ -1,0 +1,137 @@
+{
+    "image": [
+        {
+            "name": "background",
+            "url": "R/image/background.png"
+        },
+        {
+            "name": "bullet",
+            "url": "R/image/bullet.png"
+        },
+        {
+            "name": "bullet1",
+            "url": "R/image/bullet1.png"
+        },
+        {
+            "name": "bullet2",
+            "url": "R/image/bullet2.png"
+        },
+        {
+            "name": "bomb",
+            "url": "R/image/bomb.png"
+        },
+        {
+            "name": "enemy00",
+            "url": "R/image/enemy0.png"
+        },
+        {
+            "name": "enemy01",
+            "url": "R/image/enemy0_down1.png"
+        },
+        {
+            "name": "enemy02",
+            "url": "R/image/enemy0_down2.png"
+        },
+        {
+            "name": "enemy03",
+            "url": "R/image/enemy0_down3.png"
+        },
+        {
+            "name": "enemy04",
+            "url": "R/image/enemy0_down4.png"
+        },
+        {
+            "name": "enemy10",
+            "url": "R/image/enemy1.png"
+        },
+        {
+            "name": "enemy11",
+            "url": "R/image/enemy1_down1.png"
+        },
+        {
+            "name": "enemy12",
+            "url": "R/image/enemy1_down2.png"
+        },
+        {
+            "name": "enemy13",
+            "url": "R/image/enemy1_down3.png"
+        },
+        {
+            "name": "enemy14",
+            "url": "R/image/enemy1_down4.png"
+        },
+        {
+            "name": "enemy20",
+            "url": "R/image/enemy2.png"
+        },
+        {
+            "name": "enemy21",
+            "url": "R/image/enemy2_down1.png"
+        },
+        {
+            "name": "enemy22",
+            "url": "R/image/enemy2_down2.png"
+        },
+        {
+            "name": "enemy23",
+            "url": "R/image/enemy2_down3.png"
+        },
+        {
+            "name": "enemy24",
+            "url": "R/image/enemy2_down4.png"
+        },
+        {
+            "name": "hero",
+            "url": "R/image/hero1.png"
+        },
+        {
+            "name": "hero1",
+            "url": "R/image/hero_blowup_n1.png"
+        },
+        {
+            "name": "hero2",
+            "url": "R/image/hero_blowup_n2.png"
+        },
+        {
+            "name": "hero3",
+            "url": "R/image/hero_blowup_n3.png"
+        },
+        {
+            "name": "hero4",
+            "url": "R/image/hero_blowup_n4.png"
+        },
+        {
+            "name": "prop1",
+            "url": "R/image/prop_type_0.png"
+        },
+        {
+            "name": "prop2",
+            "url": "R/image/prop_type_1.png"
+        },
+        {
+            "name": "name",
+            "url": "R/image/name.png"
+        },
+        {
+            "name": "button1",
+            "url": "R/image/button_nor.png"
+        },
+        {
+            "name": "quit",
+            "url": "R/image/quit_nor.png"
+        },
+        {
+            "name": "restart",
+            "url": "R/image/restart_nor.png"
+        },
+        {
+            "name": "resume",
+            "url": "R/image/resume_nor.png"
+        },
+        {
+            "name": "gameover",
+            "url": "R/image/gameover.png"
+        }
+        
+    ]
+}
